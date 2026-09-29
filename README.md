@@ -76,5 +76,5 @@ If you open geoclue.conf, you will see this:
 
 This path needs root privilege. If you want to use a custom socket path to avoid using sudo, you can edit this and use the flag `--socket-path` to pick a path you like. But this one should always be the same to the line in geoclue.conf, that means you should change the path both in conf and argument.
 
-### avahi-publish-server
-Avahi-publish-server can publish the fake NMEA flow to the whole WLAN. If you want to share this NMEA with your other devices or VMs, use `--avahi` may help.
+### avahi-publish-service
+Avahi-publish-service can publish the fake NMEA flow to the whole WLAN. If you want to share this NMEA with your other devices or VMs, use `--avahi` may help.
