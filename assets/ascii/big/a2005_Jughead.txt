@@ -1,0 +1,69 @@
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::: :::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::::. ::::::::::::::::::::::::::::::::::
+::::::::::::::::::::::::::::::::::::: <;`:::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::::.CC :::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::::::::::::::: <CC> ::::::::::::::''' `:::::::::::::
+::::::::::::::::::::::::::::::::::::.CCCC,`:::::::::''`.;<C,`:::::::::::::
+::::::::::::::::::::::::::::::::::: <CCCCC ::::::'`.;<CCCCC,`:::::::::::::
+:::::::::::::::::::::::::::::::::: ,CCCCCC,`:'`.;<CCCCCCCCC>.:::::::::::::
+::::::::::::::::::::::::::::::::' <CCCCCCCC .;CCCCCCCCCCCCC ::::::::::::::
+:::::::::::::::::::::::::::::::',<CCCCCCCCCCCCCCCCCCCCCCCC> ::::::::::::::
+::::::::::::::::::::::::::::'`.;CCCCCCCCCCCCCCCCCCCCCCCCCC .:::::::::::''`
+::::::::::::::::::::::::::' ,CCCCCCCC>>'<CCCCCCCCCCCCCCCC> ::::'''`.,,;<C'
+::'```````'::::::::::::'`.;CCCCCCCCC .,;.  `CCCCCCCCCCCCC ```.,;CCCCCCCC> 
+'   .        ``:''       `'<CCCCCCC> !!!!!; `CCCCCCCCCCCC>;CCCCCCCCCCCC> .
+   `!!;                      `<CCCC, `!!!!!  CCCCCCCCCCCCCCCCCCCCCCCCCC ::
+    `!!                         `'<C;. `'`  ,CCCC> `'<CCCCCCCCCCCCCCCC .::
+     `''           .,..,..,..      `'CCCC;CCCCCC ,MMn.`'CCCCCCCCCCCCC' :::
+           .::   ,d$P"""$$$$$$$$cc,,. `<CCCCCCC ,MMMMMM, <CCCCCCCCCC' ::::
+      ..::::'   ,$P"     "$$$$$$$$$$$$c,`<CCCCC `4MMMMMMb.`'CCCCCCCC,.````
+:...:::::::    ,$$ .zc,   `?$$$$$$$$$$$$$c,`<CCC>,`4MMMMMMM,`CCCCCCCCCCCCC
+:::::::::::    d$hc$$$$c,  d$$$$$$$??$?????h.`'CCC>, "4MMM' <CCCCCCCCCCCCC
+:::::::::::    $$$$$$$$$$$$$$$$$$$$         "$c,`<CCC;."P ,CCCCCCCCCCCCCCC
+::::::::::::   $$$$F<$$$$$$?$$$$$$$  .,c$$   $$$L   ``C>;CCCCCCCCCCCCCC>''
+::::::::::::   $$$$F<$$$$$$ ?$$$$$$$$$$$$$L  $$$L     <CCCCCCCCCCCCC>' ,.:
+::::::::::::   $$$$ d$$$$$$.j"$$$$$$"$$$$$$cc$$$F      `<CCCCCCCCC>' .::::
+::::::::::::  d?$$",$$$$$$$ f $$$$$P $$$$$$$$$$$h_,      ``CCCCCC' .::::::
+::::::::::::: $  " ?$$$$$$$  d$$$$$`<$$$$$$$$$$$$P"         `CC>  ::::::::
+::::::::::::: $cc,.,,,$$$$F  $$F"?"z$$$$$$$$$$$$F             ' .:::::::::
+:::::::::::::.$$$$$$$$$$$$$$$$$$.  ""?$$$$$$$$$$h.             `::::::::::
+::::::',,_`' `??$$$$$$??$$$$$$$$$hcccc$$$$$$$$$$$>        zc$$$c :::::::::
+:::::: $$$$$hcccc,,.,,,c$$$$$$$$$$$$$$$$$$$$$$$$"       z$$$???$h ::::::::
+:::::: ?$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$.     ,d$P"".  $$ ::::::::
+::::::.,,,. .,,,,,,.,.    $$$$$?$$$$$$$$$$$$$$$$$hcccc$$ zd$$  $$ ::::::::
+::::::::::::<$$$$$$$$$hcc$$$$$$c ?$$$$$$$$$$$$$$$$$$$$$$c`$$$cc$' ::::::::
+:::::::::::`<$$$$$$$$$$$$$$$$$$$h."$$$$$$$$$$$$$$$$$$$$$P <$$$P'.:::::::::
+::::::::::: $$$$$$$$$$$??""`_,,""" "$$$$$$$$$$$$$$$$???",c$P"".:::::::::::
+::::::::::: $$$$$$$$$$L,c$$$$$$$$$. $$$$$$$$$$$$$$$F  z$$$"..:::::::::::::
+::::::::::: $$$$$$$$$$$$$$$$$$$$$$$ $$$$$$$$$$$$$$$hcd$$$F :::::::::::::::
+::::::::::: `$$$$$$$$$$$$$$$$$$$$$F $$$$$$$$$$$$$$$$$$$$" ::::::::::::::::
+:::::::::::: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$F`$$$$P".:::::::::::::::::
+:::::::::::: "$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P' "?" .:::::::::::::::::::
+::::::::::::: $$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$" . ::::::::::::::::::::::::
+::::::::::::' `$$$$$$$$$$$$$$$$$$$$$$$$$$$$$P' C>.`:::::::::::::::::::::::
+:::::::::::',C,`$$$$$$$$$$$$$$$$$$$$$$$$$$$" . CCC;.`'::::::::::::::::::::
+:::::::::' ;CCC,`?$$$$$$$$$$$$$$$$$$$$$$$P' z";CCCCCC,.`::::::::::::::::::
+:::::::' ,CCCCCC>,`"$$$$$$$$$$$$$$$$$$P"  ,d" CCCCCCCCC,`:::::::::::::::::
+:::::: ,<CCCCCCCCCC,`??$$$$$$$$$$$$P""  ,d$P <CCCCCCCCCC,`::::::::::::::::
+::::: .CCCCCCCCCCCCCC;  ""?????"""   ,c$$$P <CCCCCCCCCCCC,`:::::::::::::::
+::''`.`CCCCCCCCCCCCCCCC,         .,c$$$$$F ,CCCCCCCCCCCCC> :::::::::::::::
+.;<CCC CCCCCCCCCCCCCCCCC,?ccccc$$$$$$$$$",<CCCCCCCCCCCCCCC :::::::::::::::
+CCCCCC,<CCCCCCCCCCCCCCCCC,`?$$$$$$$$$$$',CCCCCCCCCCCCCCCCC.`::::::::::::::
+CCCCCC>'CCCCCCCCCCCCCCCCCC, "$$$$$$$$$',CCCCCCCCCCCCCCCCCC> .`````::::::::
+CCCCCCC CCCCCCCCCCCCCCCCCCC>.`?$$$$$$P <CCCCCCCCCCCCCCCCCCC <CCC>; ``:::::
+CCCCCCC CCCCCCCCCCCCCCCCCCCCC,."$$$$$ <CCCCCCCCCCCCCCCCCCCC.<CCCCCC>;.``::
+CCCCCCC `CCCCCCCCCCCCCCCCCCCCCC, "?$';CCCCCCCCCCCCCCCCCCCCC,`CCCCCCCCCC;.`
+CCCCCCC> CCCCCCCCCCCCCCCCCCCCCCCC> " CCCCCC>'` `''<<CCCCCCCC CCCCCCCCCCCC>
+CCCCCCCC,`CCCCCCCCCCCC>'`  `'<<CCCC, CCCCC'          `<CCCCC,<CCCCCCCCCCCC
+CCCCCCCC> CCCCCCCCC>'      .;;;.`'CC <CCC,.<<,,.        `CCC, CCCCCCCCCCCC
+CCCCCCCCC,`CCCCC>'     .;<CCCCCCC, `'`CCCCCCCCCCCCC<C>;. `<CC CCCCCCCCCCCC
+CCCCCCCCC> CC>'  .,;<<CCCCCCCCCCCCC,'.`CCCCCCCCCCCCCCCCC>>;,. <CCCCCCCCCCC
+CCCCCCCCCC '.;<CCCCCCCCCCCCCCCCCCCCCCC `<CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC :. <CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC.`:. <CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC> '' <CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC <CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC,`CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC <CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC
+CCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCCC.`CCCCCCCCCCCCCCCCCCCCCCCCCCCCCC

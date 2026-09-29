@@ -1,0 +1,66 @@
+                    ...XXXXXXXXXXXXXXXXXXXXXXX...                           
+               .###////////////////////////LLLLLLLLLLLL##..,                
+              ///////////////////////////////XLLLLLLLLLLLLLX##.             
+            /////////////////////////////XLLLLLLLLLLLLLLXXJJJJJ.L           
+          /////////////////////////////////XLLLLLLLLL//XXXXJJJJJJL          
+         /////////CCCCCCCCCCCCCCCC/CCCCCC//CLLLLLLLLLLCCCCCCJJJJJJL         
+       ////////CCCCCCCCCCCCCCCCC/CCCC/C/CCCXLLLLLLLLLLLXXXXXLLLJJJJJ        
+      /////////CCCCCCCCCCCCCC/CCCCC/CCCCCCC////////X/JJJXX1JJLJJJJJLL       
+     ////////CCCCCCCCCCCCC/CCCCC/CCCCCCCCC//////////JJJJJX1JJJ1JJJJJL.      
+    ////////CCCCCCCCCCCCCCCCC/CCCCCCCCCCCC///CCCC//JJJJJJJ1JJJ11LJLJLJL     
+    ////////CCCCCCCCCC/CCCC/CCCCCCCCCCCC///CCCCC/JC/JJJJJJ1JJJ11LJJLJLJLL   
+    ///////CCCCCCCCC/CCCC/CCCCCCCCCCC////CCCCC//JC/J/JJ/JJJJJJJJJLJ1JJLJLL  
+    ///////CCCCCCCCCCC/CCCCCCCCCCC/////CCCCC//JC/J/JJ/JJJJJJJ/JJLJJJ1JJLJLL 
+  ////////CCCCCCC/CC/CCCCCCCCCCC///CCCCCCCC/JC/JJ/JJ/J/JJJJJ/J/JJLJJ1JJ/JLLL
+ /////////CCCCCCCCCCCCCCC/JCCCC//CCCCCCC///JCCJJ/JJ/J-JJJ/J/J/JJJ1JJ1JJJL11J
+ ////////CCCC/CCCC/CCCCC/JJCCC//CCCCJJ/JJJCC/JJ/JJ/J/JJJ/J/JJ/JJJ1JJ1JJLL11J
+ ///////CCC/CCCCC/CCCCC/JJCCC//CCCCC/JJJJC//JJ/JJ/J/JJJ/J/JJ/JJJJJJJ1JJJL11L
+////////CCCCCCC/1CCCCC/JJCCC//JJJJJ/JJJJC/JJ//JJ/J/JJJ/J/JJ/JJJJ/JJJJJJJ111J
+////////CCCCCC/1JJJJJ/JJCCCC1CCCCCC1JJJC1JJJ/J/JJ/JJJ/J/JJ/JJJJJJJJJJJJJ11LJ
+1CCC1CCCCCCCC/C1CCCCC/JJJJJJ1CCCCCC1JJJC1JJJJ/JJ/JJJ/J/JJ/J1JJJJJJJJJJJJ11LJ
+1CCC1CCCCCCC/CC1CC/C/JJCCCCC1CCCCCC/JJCC1/////J/JJ//J/JJJJ/1J/JJJJJJJJJJ11LJ
+1CCC1CCCCCC/CCC1C/CC/JJCCC11111111C1JJ//////JJJJ//J/J//J//J1/JJJJJJJJJJJ11LJ
+1JJJ1CCCCCCCCCCCCCCC/JJCCC111111111JJJ//////JJJ/#JJJ/JJ//J///JCCJJJ/H#LJ11LJ
+1JJJ1CCCCCCCCC1C1CCCCCCCCC11111111CCCCCC/###JJJ///JJJJJJJJJ///JJJ///HJLJ11LJ
+1JJJ1CCCCCCCC1111CC11111C  C#CCC C  C       ###/JJJJ/////JC///CCC//11JJJJJLJ
+LCCC1CCCCCCCC1111CC11111CC C             ..-   #####  //   /////C/ L1JJJJLJ 
+ LCCLCCCCCCCC1111CCCCCCCC...            - .--***..        CC///// /11/JJJJLJ
+ LLCCCCCCCCCCCCCCC .*...... -..        / Z   C @ J*ZJJJ    CC/// //1//JJJJLJ
+ LLCCCLCCCCCCCC  .*C @ J   Z   .       1  ,--.***-  ..,    C/C// //1//JJJJLJ
+ LLLCCL CCCC   ./Z.,***..-,    L      1    -.. . .-        /C//C  ///J/JJ/J 
+  LLLCCCJJJ      .       .     .1    1L.                   CCC1C 1 /J/JJJ/  
+    LLLLLLLL                   .1    1L.                    CC11  L  /JJJJ  
+      LLLLLLL                  .1     1L.                    C11--  //J/    
+      L LLLLL                  .1     1L.                     CL  /J  JJ    
+       LLL LL                  .1      L                       1L-JJJJ/     
+       1  LLL                  /        L.                     11JJJJ/J     
+       1 L-LL                             L                    11////       
+       1 L-LL                 /        J  J .                  11JJ//       
+        L   LL               C          ..,  .                 /1JJJ        
+         L  LL               C .       ..      .               / J//        
+          ---L                CC..   ./         --.           1 .1J/        
+             L                    ---              -.         / .1J/        
+              L      L    . . .                  ..Z .       /  .11         
+               L         . . .    .    . <.<     </         /    .L         
+                L   L   C............*.....----*J           /    .L         
+                L       LZ                    /            /     .L         
+                 L        ,,                 /./          /      ..L        
+                  L        .LLL..........-,/./           /       ...L       
+                   L        L..           ./             1       ..1L       
+                    L.       **L......---,              J        ..1 L      
+                      L.                                J        ..1 L      
+                        L.                              J        ..1  L     
+                          LL.                          /         ../  L     
+                           L L                        /          ./    L    
+                           L  L.                     /           /       L  
+                          / L   L                 .-,    L      /          L
+                        ./  L     L.          ...-        L    /            
+                      /     1L      L.......#,         L     ./             
+                   /         L                           L ./               
+                 /     / .    L     L      L              /                 
+              /    - / --    L  L     L     L           ./                  
+          /          --       L   L     L     L        /                    
+        /                      L    L               ./                      
+     .                         L      L            /       -Faye PASHALIS-  
+   /                                     L        /                         
+                                  RINGO STARR                               
