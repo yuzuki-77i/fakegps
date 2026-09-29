@@ -11,7 +11,7 @@ Compile: gcc
 Dependencies: geoclue, socat, avahi
 
 ## Usage
-###first time
+### first time
 ```bash
 git clone https://github.com/yuzuki-77i/fakegps.git
 cd fakegps
@@ -70,8 +70,9 @@ Geoclue is the Linux basic positioning service. ***Before you use fakegps for th
 ### Unix-socket
 If you open geoclue.conf, you will see this:
 
-`# Use an NMEA unix socket as the data source
-nmea-socket=/var/run/gps-share.sock`
+`# Use an NMEA unix socket as the data source`
+
+`nmea-socket=/var/run/gps-share.sock`
 
 This path needs root privilege. If you want to use a custom socket path to avoid using sudo, you can edit this and use the flag `--socket-path` to pick a path you like. But this one should always be the same to the line in geoclue.conf, that means you should change the path both in conf and argument.
 
