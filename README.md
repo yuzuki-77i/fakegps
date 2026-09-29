@@ -11,7 +11,7 @@ Compile: gcc
 Dependencies: geoclue, socat, avahi
 
 ## Usage
-first time
+###first time
 ```bash
 git clone https://github.com/yuzuki-77i/fakegps.git
 cd fakegps
@@ -36,7 +36,12 @@ bin/fakegps N 12 E 34 -v --avahi
 Use `-s` will make fakegps follow your route by the routefile you give
 
 This circle.txt is a simple example. You can load your own routefie by following format:
-`<N/S>,<lat>,<E/W>,<lon>,<speed>	#parameters default is 0 except N/S,E/W have no default value`
+
+`<N/S>,<lat>,<E/W>,<lon>,<speed>`
+
+`# fakegps will read the routefile line-by-line per second`
+
+`# parameters default is 0 except N/S,E/W have no default value`
 
 ```bash
 sudo bin/fakegps -s assets/circle.txt -v
@@ -60,12 +65,14 @@ Use this will show help detail:  `bin/fakegps -h`
 
 ## How it works && Notice
 ### Geoclue
-Geoclue is the Linux basic positioning service. **Before you use fakegps for the first time, confirm that you have edited /etc/geoclue/geoclue.conf at first!** Disable the ip and wifi source, and enable the network-nmea so that fakegps works successfully.
+Geoclue is the Linux basic positioning service. ***Before you use fakegps for the first time, confirm that you have edited /etc/geoclue/geoclue.conf at first!*** Disable the ip and wifi source, and enable the network-nmea so that fakegps works successfully.
 
 ### Unix-socket
 If you open geoclue.conf, you will see this:
+
 `# Use an NMEA unix socket as the data source
 nmea-socket=/var/run/gps-share.sock`
+
 This path needs root privilege. If you want to use a custom socket path to avoid using sudo, you can edit this and use the flag `--socket-path` to pick a path you like. But this one should always be the same to the line in geoclue.conf, that means you should change the path both in conf and argument.
 
 ### avahi-publish-server
