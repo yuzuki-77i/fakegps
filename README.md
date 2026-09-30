@@ -35,7 +35,7 @@ bin/fakegps N 12 E 34 -v --avahi
 ### use script mode
 Use `-s` will make fakegps follow your route by the routefile you give
 
-This circle.txt is a simple example. You can load your own routefie by following format:
+This circle.txt is a simple example. You can load your own routefile by following format:
 
 `<N/S>,<lat>,<E/W>,<lon>,<speed>`
 
